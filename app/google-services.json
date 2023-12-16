@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032948695266",
+    "project_id": "percobaan8-f55122003",
+    "storage_bucket": "percobaan8-f55122003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032948695266:android:241ddd73dc2d8630439ebb",
+        "android_client_info": {
+          "package_name": "com.uts.percobaan8_f55122003"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhc5h-4mJDEXp6lK87lRxNDQXo2vJJt00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
